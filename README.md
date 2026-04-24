@@ -20,10 +20,6 @@ A simple responsive QR code card built using HTML and CSS.
 - Working with spacing, padding, and typography
 - Responsive design basics
 
-## 🔗 Links
-- Live Site: (add GitHub Pages link here)
-- Solution: (optional GitHub repo link)
-
 ## 👤 Author
 - Coded by Nico Angelo Garilva
 - Challenge by Frontend Mentor
